@@ -1,0 +1,18 @@
+<div id="aboutmee" class="card mb-2 bg-dark text-white">
+    <div class="card-body">
+        <h5 class="card-title">About Me:</h5>
+        <p class="card-text"> My name is Marko Sanchez and I'm a computer science student in the Bay Area and I've been
+            working on it for a couple years. I'm hoping to pursue a job
+            in web-development or cybersecurity later down the line. I am currently a student of the UC Berkeley
+            Extension Coding Bootcamp
+            Program and will begin my job hunt after the course is completed. </p>
+    </div>
+</div>
+<br><br>
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        {{#each proj}}
+        {{>projectsCard}}
+        {{/each}}
+    </div>
+</div>

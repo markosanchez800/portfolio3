@@ -1,0 +1,26 @@
+[
+    {
+        "projectName":"Up for Beer Review",
+        "description":"An app for reviewing and discussing your favorite beers with others!",
+        "image":"1.jpg",
+        "github":"https://github.com/TMPeeler/Project-2"
+    },
+    {
+        "projectName":"Employee Tracker",
+        "description":"An app for organizing and managing your employees and their respective departments",
+        "image":"2.jpg",
+        "github":"https://github.com/markosanchez800/employee-tracker"
+    },
+    {
+        "projectName":"Note Taker",
+        "description":"An app for taking notes and writing messages throughout the day!",
+        "image":"3.jpg",
+        "github":"https://github.com/markosanchez800/note-taker"
+    },
+    {
+        "projectName":"Weather Dashboard",
+        "description":"An app for finding the forecast and current weather of any city",
+        "image":"4.jpg",
+        "github":"https://github.com/markosanchez800/weather-dashboard"
+    }
+]

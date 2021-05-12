@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+a {
+    color: white;
+    border: 3px solid white;
+    padding: 5px;
+    border-radius: 15px;
+    background-color:grey;
+}
+#headLinks {
+    text-align: end;
+    margin-left: 650px;
+}
+#aboutmee {
+    margin-top:20px;
+}
